@@ -1,0 +1,16 @@
+COMO TROCAR O FUNDO DO FORMULÁRIO PARA CADA FESTA
+====================================================
+
+1. Coloque UMA imagem (jpg, jpeg, png ou webp) dentro desta pasta
+   "fundo_festa".
+2. Se já existir uma imagem aqui, apague-a antes de colocar a nova
+   (o sistema sempre usa apenas a primeira imagem encontrada).
+3. Não precisa reiniciar nada — é só atualizar a página do formulário
+   no navegador (F5) que o novo fundo já aparece.
+4. Esse fundo aparece SOMENTE na tela de Cadastro de Convidados
+   (o formulário que os convidados preenchem). A Área Restrita do
+   anfitrião continua com o visual padrão, sem o fundo da festa.
+
+Dica: imagens verticais (formato de story/convite, tipo 1080x1920)
+funcionam melhor, pois o fundo cobre a tela toda e fica fixo enquanto
+o formulário rola por cima.

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lista de Presença - Festa de Sábado",
+  "description": "Aplicativo Streamlit + SQLite para gerenciamento de lista de convidados com números de entrada e painel do anfitrião.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,3 @@
+def render_checkin_portaria(df_guests):
+    import streamlit as st
+    # etc...
